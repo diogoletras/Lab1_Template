@@ -56,10 +56,4 @@ public interface Queue<T> {
      * Resets the queue, removing all elements
      */
     public void clear();
-
-
-
-
-
-
 }
